@@ -24,7 +24,7 @@ Just open `stonegpt.html` in any browser. No build step. No dependencies. No non
 ```bash
 git clone https://github.com/znatgost/stonegpt
 cd stonegpt
-open stonegpt.html
+open index.html
 ```
 
 Or just [download the file](./stonegpt.html) and double-click it.
